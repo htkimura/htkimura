@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm Henry Kimura from Brazil 🇧🇷, I'm at the beginning of my programmer career.
+- 🌱 I’m currently learning React and Node
 <!--
 **htkimura/htkimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
