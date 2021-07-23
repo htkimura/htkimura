@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm Henry Kimura from Brazil 🇧🇷, I'm at the beginning of my programmer career.
-- 🌱 I’m currently learning React and Node
+- 🔭 I’m currently working on React apps and Node.js REST APIs
+- 🌱 I’m currently learning [NestJS](https://nestjs.com/) and [GraphQL](https://graphql.org/) APIs development
 <!--
 **htkimura/htkimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
